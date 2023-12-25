@@ -12,9 +12,4 @@
 
 <p align="left">✨ A Computer Science Student<br>📚 I'm currently learning Web Application Pentesting<br>🎯 Goals: TO BE A APPLICATION SECURITY ENGINEER AND A PENTESTER<br>
 
-###
 
-<h2 align="left">I code with PYTHON, C, C++, JAVASCRIPT ...</h2>
-
-
-###
