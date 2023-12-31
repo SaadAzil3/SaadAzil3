@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Saad and I'm a Penetration Tester and a Python Developer.</p>
+<p align="left">My name is Saad, Computer Science Student at University of bejaia.</p>
 
 ###
 
