@@ -2,11 +2,11 @@
 
 # 👾 Saad Azil — `SA3D00N`
 
-**Penetration Tester in Training | CTF Player | Security Enthusiast**
+**Penetration Tester | Network Security | CTF Player | Master's Student @ University of Bejaia**
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-SA3D00N-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SA3D00N)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-SA3D00N-9fef00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/SA3D00N)
-[![GitHub](https://img.shields.io/badge/GitHub-SA3D00N-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SA3D00N)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-SA3D00N-9fef00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1543873)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saad_Azil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadazil/)
+[![GitHub](https://img.shields.io/badge/GitHub-SA3D00N-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SaadAzil3)
 
 </div>
 
@@ -14,77 +14,71 @@
 
 ## 🧑‍💻 About Me
 
-Hey there! I'm **Saad Azil**, known online as **SA3D00N** — a passionate penetration testing student focused on breaking things (ethically) to understand how to defend them better.
+I'm **Saad Azil (SA3D00N)** — a cybersecurity practitioner and Master's student in Network Administration & Security at the University of Bejaia, Algeria. I specialize in penetration testing and network security with real-world experience from both academic projects and industry internships.
 
-- 🎯 Currently sharpening my skills through **CTF competitions** and **lab environments**
-- 🔍 Interests: Web exploitation, network pentesting, privilege escalation & OSINT
-- 📚 Always learning — security is a mindset, not a destination
-- 🌍 Open to collaboration on security research & CTF write-ups
+- 🎓 Pursuing a **Master's in Network Administration & Security** (2024–2026)
+- 🏢 Former **Network Security Intern** at Cevital Agro-industrie — one of Algeria's largest enterprises
+- 🏴 Active **CTF Player** on HackTheBox
+- 🛡️ Certified **Network Security Practitioner (CNSP)**
+- 🌍 Open to collaboration on security research, CTF challenges & write-ups
 
 ---
 
 ## 🛠️ Skills & Tools
 
-**Reconnaissance & OSINT**
+### 🔴 Offensive Security
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-CC0000?style=for-the-badge)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-8B0000?style=for-the-badge)
+![SMB Relay](https://img.shields.io/badge/SMB_Relay_Attacks-1C1C1C?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active_Directory_Exploitation-black?style=for-the-badge)
+![NTLM](https://img.shields.io/badge/NTLM_Auth_Exploitation-darkred?style=for-the-badge)
 
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-black?style=flat-square)
-![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=flat-square)
+### 🔵 Network Security & Infrastructure
+![Network Security](https://img.shields.io/badge/Network_Security-003366?style=for-the-badge)
+![GNS3](https://img.shields.io/badge/GNS3_Network_Simulation-005073?style=for-the-badge)
+![Nagios](https://img.shields.io/badge/Nagios_IDS-232F3E?style=for-the-badge)
+![LAN](https://img.shields.io/badge/LAN_Installation_%26_Config-0A3D62?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-**Exploitation**
+### 🟣 Security Tools
+![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-4A4A4A?style=for-the-badge)
 
-![Metasploit](https://img.shields.io/badge/Metasploit-2596BE?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![SQLMap](https://img.shields.io/badge/SQLMap-black?style=flat-square)
+### 🟡 Systems Administration
+![Linux](https://img.shields.io/badge/Linux_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server_Admin-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-**Post-Exploitation & Privilege Escalation**
-
-![LinPEAS](https://img.shields.io/badge/LinPEAS-yellow?style=flat-square)
-![WinPEAS](https://img.shields.io/badge/WinPEAS-blue?style=flat-square)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-darkred?style=flat-square)
-
-**Platforms & OS**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=flat-square)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-**Scripting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+### 🟢 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
 ## 📁 Projects
 
-| Project | Description | Status |
-|---|---|---|
-| 🔐 `ctf-writeups` | Detailed write-ups for completed CTF challenges across various platforms | 🟢 Active |
-| 🕷️ `web-vuln-lab` | Personal lab for practicing web vulnerabilities (SQLi, XSS, IDOR, etc.) | 🟡 In Progress |
-| 🛡️ `pentest-notes` | Organized notes, cheatsheets, and methodologies for penetration testing | 🟢 Active |
-| 🤖 `recon-toolkit` | Custom Python scripts to automate recon and enumeration tasks | 🔵 Planned |
-
-> 💡 *More projects coming soon — currently grinding CTFs and building write-ups.*
+| Project | Description |
+|---|---|
+| 🔍 **Intrusion Detection with Nagios** | Designed and implemented an IDS using Nagios, simulated hardware monitoring, and protected sensitive data. Built and monitored an enterprise network via GNS3, identifying vulnerabilities in real time. |
+| 🔗 **SMB Relay Attack in Active Directory** | Simulated and executed an SMB Relay attack exploiting NTLM authentication vulnerabilities to capture and relay hashes. Analyzed security risks and proposed mitigation strategies. |
+| 🏗️ **Vulnerability Analysis & Network Hardening** | Designed a virtual enterprise network in GNS3, conducted in-depth vulnerability assessments, performed penetration tests, and delivered strategic recommendations to strengthen the overall security posture. |
 
 ---
 
 ## 📜 Certifications & Learning Path
 
 ```
-[✅] Google Cybersecurity Certificate           — Completed
-[🔄] eJPT (eLearnSecurity Junior Pentest)       — In Progress
-[📌] CompTIA Security+                          — Planned
-[📌] OSCP (Offensive Security Certified Prof.)  — Future Goal
+[✅] Certified Network Security Practitioner (CNSP)         — Oct 2025
+[🔄] Master's Degree — Network Administration & Security    — Oct 2024 → July 2026
 ```
 
-**Platforms I train on:**
+## 🏢 Experience Highlight
 
-| Platform | Focus |
-|---|---|
-| 🟥 TryHackMe | Structured learning paths & guided rooms |
-| ⬛ HackTheBox | Real-world-style machines & Pro Labs |
-| 🟦 PicoCTF | CTF competition & binary/web challenges |
+**Network Security Intern — Cevital Agro-industrie** *(Mar 2024 – May 2024)*
+> Simulated enterprise network architecture with GNS3 · Conducted vulnerability assessments on Level 2 networks · Performed penetration testing & delivered a full report on vulnerabilities and mitigation strategies.
 
 ---
 
@@ -98,11 +92,3 @@ Hey there! I'm **Saad Azil**, known online as **SA3D00N** — a passionate penet
 </div>
 
 ---
-
-<div align="center">
-
-*"The quieter you become, the more you are able to hear."* — Kali Linux
-
-**Happy hacking — legally.** 🛡️
-
-</div>
