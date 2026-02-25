@@ -35,8 +35,8 @@ I'm **Saad Azil (SA3D00N)** — a cybersecurity practitioner and Master's studen
 ### 🔵 Network Security & Infrastructure
 ![Network Security](https://img.shields.io/badge/Network_Security-003366?style=for-the-badge)
 ![GNS3](https://img.shields.io/badge/GNS3_Network_Simulation-005073?style=for-the-badge)
-![Nagios](https://img.shields.io/badge/Nagios_IDS-232F3E?style=for-the-badge)
-![LAN](https://img.shields.io/badge/LAN_Installation_%26_Config-0A3D62?style=for-the-badge)
+![Nagios](https://img.shields.io/badge/Nagios-232F3E?style=for-the-badge)
+![PFSENSE](https://img.shields.io/badge/Pfsense-0A3D62?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 🟣 Security Tools
@@ -52,7 +52,7 @@ I'm **Saad Azil (SA3D00N)** — a cybersecurity practitioner and Master's studen
 
 ### 🟢 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
