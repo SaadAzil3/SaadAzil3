@@ -12,26 +12,25 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm **Saad Azil (SA3D00N)** — a cybersecurity practitioner and Master's student in Network Administration & Security at the University of Bejaia, Algeria. I specialize in penetration testing and network security with real-world experience from both academic projects and industry internships.
 
-- 🎓 Pursuing a **Master's in Network Administration & Security** (2024–2026)
-- 🏢 Former **Network Security Intern** at Cevital Agro-industrie — one of Algeria's largest enterprises
-- 🏴 Active **CTF Player** on HackTheBox
-- 🛡️ Certified **Network Security Practitioner (CNSP)**
-- 🌍 Open to collaboration on security research, CTF challenges & write-ups
+-  Pursuing a **Master's in Network Administration & Security** (2024–2026)
+-  Former **Network Security Intern** at Cevital Agro-industrie — one of Algeria's largest enterprises
+-  Active **CTF Player** on HackTheBox
+-  Certified **Network Security Practitioner (CNSP)**
+-  Open to collaboration on security research, CTF challenges & write-ups
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 ### 🔴 Offensive Security
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-CC0000?style=for-the-badge)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-8B0000?style=for-the-badge)
-![SMB Relay](https://img.shields.io/badge/SMB_Relay_Attacks-1C1C1C?style=for-the-badge)
-![Active Directory](https://img.shields.io/badge/Active_Directory_Exploitation-black?style=for-the-badge)
-![NTLM](https://img.shields.io/badge/NTLM_Auth_Exploitation-darkred?style=for-the-badge)
+![Privilege Escalation](https://img.shields.io/badge/SMB_Relay_Attacks-1C1C1C?style=for-the-badge)
+![Adversary Emulation](https://img.shields.io/badge/Active_Directory_Exploitation-black?style=for-the-badge)
 
 ### 🔵 Network Security & Infrastructure
 ![Network Security](https://img.shields.io/badge/Network_Security-003366?style=for-the-badge)
@@ -58,31 +57,31 @@ I'm **Saad Azil (SA3D00N)** — a cybersecurity practitioner and Master's studen
 
 ---
 
-## 📁 Projects
+##  Projects
 
 | Project | Description |
 |---|---|
-| 🔍 **Intrusion Detection with Nagios** | Designed and implemented an IDS using Nagios, simulated hardware monitoring, and protected sensitive data. Built and monitored an enterprise network via GNS3, identifying vulnerabilities in real time. |
-| 🔗 **SMB Relay Attack in Active Directory** | Simulated and executed an SMB Relay attack exploiting NTLM authentication vulnerabilities to capture and relay hashes. Analyzed security risks and proposed mitigation strategies. |
-| 🏗️ **Vulnerability Analysis & Network Hardening** | Designed a virtual enterprise network in GNS3, conducted in-depth vulnerability assessments, performed penetration tests, and delivered strategic recommendations to strengthen the overall security posture. |
+| **Intrusion Detection with Nagios** | Designed and implemented an IDS using Nagios, simulated hardware monitoring, and protected sensitive data. Built and monitored an enterprise network via GNS3, identifying vulnerabilities in real time. |
+| **SMB Relay Attack in Active Directory** | Simulated and executed an SMB Relay attack exploiting NTLM authentication vulnerabilities to capture and relay hashes. Analyzed security risks and proposed mitigation strategies. |
+| **Vulnerability Analysis & Network Hardening** | Designed a virtual enterprise network in GNS3, conducted in-depth vulnerability assessments, performed penetration tests, and delivered strategic recommendations to strengthen the overall security posture. |
 
 ---
 
-## 📜 Certifications & Learning Path
+## Certifications & Learning Path
 
 ```
-[✅] Certified Network Security Practitioner (CNSP)         — Oct 2025
-[🔄] Master's Degree — Network Administration & Security    — Oct 2024 → July 2026
+Certified Network Security Practitioner (CNSP)         — Oct 2025
+Master's Degree — Network Administration & Security    — Oct 2024 → July 2026
 ```
 
-## 🏢 Experience Highlight
+## Experience Highlight
 
 **Network Security Intern — Cevital Agro-industrie** *(Mar 2024 – May 2024)*
 > Simulated enterprise network architecture with GNS3 · Conducted vulnerability assessments on Level 2 networks · Performed penetration testing & delivered a full report on vulnerabilities and mitigation strategies.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
