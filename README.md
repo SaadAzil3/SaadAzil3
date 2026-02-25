@@ -29,8 +29,8 @@ I'm **Saad Azil (SA3D00N)** — a cybersecurity practitioner and Master's studen
 ### 🔴 Offensive Security
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-CC0000?style=for-the-badge)
 ![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-8B0000?style=for-the-badge)
-![Privilege Escalation](https://img.shields.io/badge/SMB_Relay_Attacks-1C1C1C?style=for-the-badge)
-![Adversary Emulation](https://img.shields.io/badge/Active_Directory_Exploitation-black?style=for-the-badge)
+![Privilege Escalation](https://img.shields.io/badge/Privilege_Escalation-1C1C1C?style=for-the-badge)
+![Adversary Emulation](https://img.shields.io/badge/Adversary_Emulation-black?style=for-the-badge)
 
 ### 🔵 Network Security & Infrastructure
 ![Network Security](https://img.shields.io/badge/Network_Security-003366?style=for-the-badge)
