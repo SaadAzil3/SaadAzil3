@@ -1,4 +1,69 @@
-<div align="center">
+&lt;div align="center"&gt;
+
+# Saad Azil — SA3D00N
+
+**Penetration Tester | Network Security | CTF Player**
+
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-SA3D00N-9fef00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1543873)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saadazil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadazil/)
+[![GitHub](https://img.shields.io/badge/GitHub-SA3D00N-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SaadAzil3)
+
+&lt;/div&gt;
+
+---
+
+## About Me
+
+Master's student in **Network Administration & Security** at the University of Bejaia, Algeria. I specialize in penetration testing, network defense, and adversary emulation. Currently open to security research, CTF collaborations, and offensive security roles.
+
+- **Education:** Master's in Network Administration & Security (2024–2026)
+- **Certification:** Certified Network Security Practitioner (CNSP)
+- **Activity:** Active CTF player on HackTheBox
+
+---
+
+## Experience
+
+| Role | Organization | Location | Period |
+|---|---|---|---|
+| **Network Security Intern** | Cevital Agro-industrie | Algeria | Mar 2024 – May 2024 |
+| **Network and IT Security Intern** | ENAGEO | Hassi Messaoud, Ouargla, Algeria | [Add your dates] |
+
+- **Cevital:** Simulated enterprise network architecture with GNS3; conducted vulnerability assessments on Level 2 networks; performed penetration testing and delivered a full report on vulnerabilities and mitigation strategies.
+- **ENAGEO:** Hands-on experience with enterprise security infrastructure in the energy sector.
+
+---
+
+## Core Competencies
+
+| Offensive Security | Network & Infrastructure | Tools & Platforms | Systems & Scripting |
+|---|---|---|---|
+| Penetration Testing | Network Security | Metasploit, Burp Suite, Nmap, SQLMap | Linux & Windows Server Admin |
+| Vulnerability Assessment | GNS3 Simulation | Wireshark, Nagios, pfSense | Python, Go, Bash, PowerShell |
+| Privilege Escalation | IDS/IPS Design | Active Directory Lab | Kali Linux |
+| Adversary Emulation | IP Telephony (Asterisk) | Asterisk VoIP | — |
+
+---
+
+## Featured Projects
+
+| Project | What It Covers |
+|---|---|
+| **Intrusion Detection with Nagios** | Enterprise network monitoring via GNS3; real-time vulnerability detection and data protection. |
+| **SMB Relay Attack in AD** | NTLM relay exploitation, hash capture analysis, and mitigation strategies. |
+| **Network Hardening & VA** | Full-cycle vulnerability assessment and penetration testing on a simulated enterprise network. |
+| **IP Telephony with Asterisk** | Design and configuration of an enterprise IP-based telephony system. |
+
+---
+
+## GitHub Stats
+
+&lt;div align="center"&gt;
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SA3D00N&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SA3D00N&layout=compact&theme=tokyonight&hide_border=true&hide_title=true)
+
+&lt;/div&gt;<div align="center">
 
 ```
 ███████╗ █████╗  █████╗ ██████╗  ██████╗  ██████╗ ███╗   ██╗
