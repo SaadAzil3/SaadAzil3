@@ -1,64 +1,89 @@
-# Saad Azil — Penetration Tester
+<div align="center">
 
-**Network Security | CTF Player | Master's Student @ University of Bejaia**
+```
+███████╗ █████╗  █████╗ ██████╗  ██████╗  ██████╗ ███╗   ██╗
+██╔════╝██╔══██╗██╔══██╗██╔══██╗██╔═══██╗██╔═══██╗████╗  ██║
+███████╗███████║███████║██║  ██║██║   ██║██║   ██║██╔██╗ ██║
+╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██║   ██║██║╚██╗██║
+███████║██║  ██║██║  ██║██████╔╝╚██████╔╝╚██████╔╝██║ ╚████║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝  ╚═════╝╚═╝  ╚═══╝
+```
+
+### Penetration Tester · Network Security · CTF Player
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-SA3D00N-9fef00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1543873)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saadazil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saadazil/)
+[![Blog](https://img.shields.io/badge/Blog-saadazil3.github.io-1b1b1e?style=flat-square&logo=jekyll&logoColor=white)](https://saadazil3.github.io/)
+[![CNSP](https://img.shields.io/badge/CNSP-Certified-green?style=flat-square)](https://www.thecyberexpert.com/cnsp-certification/)
+
+</div>
 
 ---
 
-## About
+## whoami
 
-Penetration tester and Master's student in Network Administration & Security at the University of Bejaia, Algeria.
+Master's student in **Network Administration & Security** at the University of Bejaia, Algeria.  
+I break into systems (with permission), document what I find, and write about it.
 
-- Former **Network Security Intern** at Cevital Agro-industrie *(one of Algeria's largest enterprises)*
-- Active **CTF Player** on HackTheBox
+- Currently finishing my M.S. *(2024–2026)*
+- Interned in both **energy sector** and **agro-industrial** enterprise environments
+- Active on **HackTheBox** — writeups on my blog
 - Certified **Network Security Practitioner (CNSP)**
-
----
-
-## Skills
-
-**Offensive Security** — Penetration Testing · Vulnerability Assessment · Privilege Escalation · Adversary Emulation
-
-**Network Security** — Wireshark · pfSense · GNS3 · Nagios
-
-**Tools** — Metasploit · Burp Suite · Nmap · SQLMap
-
-**Systems** — Kali Linux · Linux Administration · Windows Server
-
-**Scripting** — Python · Go · Bash · PowerShell
-
----
-
-## Projects
-
-**Intrusion Detection System with Nagios**
-Designed and deployed an IDS in a simulated enterprise environment using GNS3. Monitored hardware and network activity, identified vulnerabilities in real time, and implemented protections for sensitive data.
-
-**SMB Relay Attack in Active Directory**
-Simulated an SMB Relay attack exploiting NTLM authentication weaknesses. Captured and relayed credential hashes, analyzed security impact, and proposed mitigation strategies.
-
-**Enterprise Network Vulnerability Assessment**
-Built a virtual enterprise network in GNS3, conducted full vulnerability assessments and penetration tests, and delivered a structured report with hardening recommendations.
 
 ---
 
 ## Experience
 
-**Network Security Intern — Cevital Agro-industrie** *(Mar 2024 – May 2024)*
-Simulated enterprise network architecture in GNS3. Conducted vulnerability assessments on Layer 2 networks. Performed penetration testing and delivered a complete findings report with mitigation recommendations.
+**Network and IT Security Intern — ENAGEO** *(Hassi Messaoud, Ouargla)*
+Network and IT security in the energy sector — hands-on with enterprise security infrastructure in one of Algeria's critical industrial environments.
+
+**Network Security Intern — Cevital Agro-industrie**
+Simulated enterprise network architecture in GNS3. Conducted vulnerability assessments on Layer 2 networks. Delivered a full penetration test report with mitigation recommendations.
 
 ---
 
-## Education & Certifications
+## Projects
 
-**M.S. Network Administration & Security** — University of Bejaia *(2024–2026)*
+**[Intrusion Detection System with Nagios Core](https://saadazil3.github.io/posts/nagios/)**
+Designed and deployed a network monitoring and IDS in a simulated enterprise environment using GNS3. Monitored hardware and network activity in real time. Full write-up on my blog.
 
-**Certified Network Security Practitioner (CNSP)** — Oct 2025
+**SMB Relay Attack in Active Directory**
+Simulated an SMB Relay attack exploiting NTLM authentication weaknesses. Captured and relayed credential hashes, analyzed the attack surface, and proposed mitigations.
+
+**Enterprise Network Vulnerability Assessment**
+Built a virtual enterprise network in GNS3. Ran full vulnerability assessments and penetration tests. Delivered a structured findings report with hardening recommendations.
+
+**[IP Telephony with Asterisk — VoIP Lab](https://saadazil3.github.io/posts/asterisk/)**
+Designed and configured a LAN-based VoIP system using Asterisk on Linux — SIP users, voicemail, IVR, and conference rooms. Two-part write-up on my blog.
 
 ---
 
-## GitHub Stats
+## Stack
 
-![SA3D00N's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SA3D00N&show_icons=true&theme=tokyonight&hide_border=true)
+```
+Offensive      Metasploit · Burp Suite · Nmap · SQLMap · Netcat
+Network        Wireshark · pfSense · GNS3 · Nagios Core
+Systems        Kali Linux · Ubuntu · Windows Server
+Scripting      Python · Go · Bash · PowerShell
+```
+
+---
+
+## Blog & Writeups
+
+> [saadazil3.github.io](https://saadazil3.github.io/) — HTB writeups, project deep-dives, and networking labs.
+
+| Post | Tags |
+|------|------|
+| [HTB: Nibbles](https://saadazil3.github.io/posts/nibbles/) | `ctf` `htb` `linux` |
+| [Nagios IDS Project](https://saadazil3.github.io/posts/nagios/) | `security` `networking` `gns3` |
+| [Asterisk VoIP — Part I](https://saadazil3.github.io/posts/asterisk/) | `networking` `voip` `ccna` |
+| [Asterisk VoIP — Part II](https://saadazil3.github.io/posts/asterisk-part-2/) | `networking` `voip` `ccna` |
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SA3D00N&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+</div>
