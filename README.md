@@ -16,10 +16,10 @@
 
 Master's student in **Network Administration & Security** at the **University of Bejaia, Algeria**. I specialize in penetration testing, network defense, vulnerability assessment, and adversary emulation. Currently open to security research collaborations, CTF teams, internships, and offensive security opportunities.
 
-* 🎓 **Education:** Master's in Network Administration & Security (2024–2026)
-* 📜 **Certification:** Certified Network Security Practitioner (CNSP)
-* 🏆 **Activity:** Active CTF player on Hack The Box
-* 🔐 **Focus Areas:** Penetration Testing, Active Directory Security, Network Defense, Red Teaming
+**Education:** Master's in Network Administration & Security (2024–2026)
+**Certification:** Certified Network Security Practitioner (CNSP)
+**Activity:** Active CTF player on Hack The Box
+**Focus Areas:** Penetration Testing, Red Team, Application Security
 
 ---
 
@@ -27,8 +27,8 @@ Master's student in **Network Administration & Security** at the **University of
 
 | Role                             | Organization           | Location                         | Period              |
 | -------------------------------- | ---------------------- | -------------------------------- | ------------------- |
-| **Network Security Intern**      | Cevital Agro-industrie | Algeria                          | Mar 2024 – May 2024 |
-| **Network & IT Security Intern** | ENAGEO                 | Hassi Messaoud, Ouargla, Algeria | *Add dates*         |
+| **Network Security Intern**      | Cevital Agro-industrie | Bejaia, Algeria                          | Mar 2024 – May 2024 |
+| **Network & IT Security Intern** | ENAGEO                 | Hassi Messaoud, Ouargla, Algeria | Mar 2026 - Mar 2026         |
 
 ### Cevital Agro-industrie
 
@@ -42,19 +42,6 @@ Master's student in **Network Administration & Security** at the **University of
 * Assisted with enterprise network administration and security operations.
 * Worked with security infrastructure and monitoring systems.
 * Gained hands-on experience within the energy sector's IT environment.
-
----
-
-## Core Competencies
-
-| Offensive Security       | Network & Infrastructure  | Tools & Platforms | Systems & Scripting  |
-| ------------------------ | ------------------------- | ----------------- | -------------------- |
-| Penetration Testing      | Network Security          | Metasploit        | Linux Administration |
-| Vulnerability Assessment | GNS3 Network Simulation   | Burp Suite        | Windows Server       |
-| Privilege Escalation     | IDS/IPS Deployment        | Nmap              | Python               |
-| Adversary Emulation      | Active Directory Security | Wireshark         | Go                   |
-| Web Application Testing  | Firewall Management       | SQLMap            | Bash                 |
-| Security Auditing        | IP Telephony (Asterisk)   | pfSense, Nagios   | PowerShell           |
 
 ---
 
